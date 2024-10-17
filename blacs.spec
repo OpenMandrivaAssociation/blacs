@@ -11,7 +11,7 @@ Version: 1.1
 Release: 53%{?dist}
 License: Public Domain
 
-URL: http://www.netlib.org/blacs
+URL: https://www.netlib.org/blacs
 Source0: http://www.netlib.org/blacs/mpiblacs.tgz
 Source1: Bmake.inc
 Source2: http://www.netlib.org/blacs/mpi_prop.ps
