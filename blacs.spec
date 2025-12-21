@@ -21,6 +21,7 @@ Source5: http://www.netlib.org/blacs/f77blacsqref.ps
 Source6: http://www.netlib.org/blacs/cblacsqref.ps
 Source7: http://www.netlib.org/blacs/lawn94.ps
 Source8: %{name}.rpmlintrc
+BuildRequires:	make
 BuildRequires: gcc-gfortran
 %if %{with openmpi}
 # Required for openmpi tests
